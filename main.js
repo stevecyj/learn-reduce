@@ -10,4 +10,5 @@
 // let res2 = multiply(1, 2, 3, 4, 5)
 // console.log(res, res2)
 
-import "./weightSum"
+// import "./weightSum"
+import "./utilities/reverse"
