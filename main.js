@@ -11,4 +11,5 @@
 // console.log(res, res2)
 
 // import "./weightSum"
-import "./utilities/reverse"
+// import "./utilities/reverse"
+import "./utilities/mapAndFilter"
