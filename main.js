@@ -13,4 +13,5 @@
 // import "./weightSum"
 // import "./utilities/reverse"
 // import "./utilities/mapAndFilter"
-import "./utilities/someAndEvery"
+// import "./utilities/someAndEvery"
+import "./utilities/arrayChunk"
