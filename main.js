@@ -18,4 +18,5 @@
 // import "./utilities/arrayDifference"
 // import "./utilities/arrayFill"
 // import "./utilities/arrayFlat"
-import "./utilities/arrayUniq"
+// import "./utilities/arrayUniq"
+import "./utilities/maxAndMin"
